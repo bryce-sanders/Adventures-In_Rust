@@ -6,7 +6,7 @@ This program does some basic math. It prompts the user to select either addition
 
 I am undertaking this project to help me to further my academic progress.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=ec4aJnpnvhI))
 
 # Development Environment
 
